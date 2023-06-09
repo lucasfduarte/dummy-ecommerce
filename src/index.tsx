@@ -17,6 +17,7 @@ export default function App() {
   );
 }
 
+document.body.style.margin = "0";
 const rootElement = document.getElementById("root")!;
 const root = ReactDOM.createRoot(rootElement);
 
