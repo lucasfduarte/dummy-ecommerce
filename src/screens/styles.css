@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.page {
+  padding-top: 76px;
+}
+
+.cart {
+  justify-content: center;
+}
+
+.cart-data {
+  margin: 16px 0 16px;
+  width: 100%;
+}
+
+.app-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+}
+
+.carousel-item {
+  object-fit: contain;
+  width: 400px;
+  height: 300px;
+}
